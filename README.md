@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 🔭 I’m currently working on the earth
 
 🌱 I’m currently learning Golang, Pentest
+
+[![AnswerW3I's github stats](https://github-readme-stats.vercel.app/api?username=AnswerW3I&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
